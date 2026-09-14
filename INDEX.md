@@ -28,3 +28,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD1287-2-20260914.md | 20260914 | CARD1287 | 段2 RU机稿 103 |
 | CARD1287-3-20260914.md | 20260914 | CARD1287 | 段3 台账闭合 |
 | CARD1287-4-20260914.md | 20260914 | CARD1287 | 段4 WAVE2 1871备不导 |
+| CARD1287-TAKEOVER-20260914.md | 20260914 | CARD1287 | non-write ops takeover + dry-run watch |
