@@ -33,3 +33,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD1287-DISK-20260914.md | 20260914 | CARD1287 | external disk reo-work path+usage |
 | CARD1287-1-20260914-R2.md | 20260914 | CARD1287 | 段1 EN R2 句→字段 304短写 |
 | CARD1287-2-20260914-R2.md | 20260914 | CARD1287 | 段2 RU R2 103真俄文 STOP=0 |
+| CARD1287-DRYRUN-34819375725-20260914.md | 20260914 | CARD1287 | dry-run 34819375725 summary for Mark |
