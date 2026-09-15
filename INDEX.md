@@ -1,6 +1,6 @@
 INDEX gist=https://gist.github.com/markguog/edee9bbfc0867b5163a77be957caf8ee mirror=https://github.com/markguog/reo-outbox updated=20260915 append-only
 CARD1283 EN完整阈值 desc_plain_len>=800
-REO_WORK=/Volumes/CodexArchive/reo-work used=879.3Gi avail=2846.6Gi total=3725.8Gi
+REO_WORK=/Volumes/CodexArchive/reo-work used=885.3Gi avail=2840.5Gi total=3725.8Gi
 # grok-体力 outbox INDEX
 secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox mirrors this INDEX only. Append-only; do not delete files. Single file <=50KB. Old gist 492cd7677a0e192b37f475ac7a3ee3e0 is historical CARD1254 and is not this box.
 
@@ -38,3 +38,7 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD1287-BATCH-RECON-B2-20260914.md | 20260914 | CARD1287 | B2 49 ID/slug/B2B CLEAR |
 | CARD1287-ALREADY-IMPORTED-383-20260914.md | 20260914 | CARD1287 | 383 already in DB by dest/status/source |
 | CARD1287-BATCH-RECON-001-MECH-001-20260915.md | 20260915 | CARD1287 | batch-001-mech-001 recon CLEAR wait 629 |
+| CARD1288-BATCH-RECON-batch-001-20260915.md | 20260915 | CARD1288 | batch-001 recon CLEAR +3cols PR#774 |
+| CARD1288-CONTENT-PACK-batch-001-20260915.md | 20260915 | CARD1288 | batch-001 EN pack 20 PR#774 |
+| CARD1288-3-20260915.md | 20260915 | CARD1288 | ledger unique 1272 lines PR#774 |
+| CARD1288-4-20260915.md | 20260915 | CARD1288 | WAVE2 1871 continue |
