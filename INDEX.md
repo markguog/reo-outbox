@@ -121,3 +121,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD1288-APPWRITE-MIGRATION-COST-DELTA-20260922.md | 20260922 | CARD1288 | 去Appwrite成本 单窗16 关键路径9 SEO/内容分工+预览webhook清单 PR#904 |
 
 | CARD-PPL-WEB-001-M1-20260924.md | 20260924 | CARD-PPL-WEB-001 | M1 摸底：high1 不在本仓；SuperAgent 无下单与凭证；POP LAND 无票种样例 |
+
+| CARD-PPL-WEB-001-M1-DESIGN-20260924.md | 20260924 | CARD-PPL-WEB-001 | M1补充 画布未到；31张原图已核哈希；未上R2 |
