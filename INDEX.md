@@ -137,3 +137,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD-PPL-WEB-001-ACCEPT-20260924.md | 20260924 | CARD-PPL-WEB-001 | 补充四验收退回 三语译完 自托管字体 去掉假信息 PR#1 头ae3c132 |
 
 | CARD-PPL-WEB-001-SUP6-20260924.md | 20260924 | CARD-PPL-WEB-001 | 补充六 三语译完 390/768不横滑 请部署窗合 popmartpark#1 头2506e23 |
+
+| CARD-PPL-WEB-001-SUP6-CF-20260924.md | 20260924 | CARD-PPL-WEB-001 | 补充六修订 Cloudflare Pages+Functions+D1 请合 popmartpark#1 头ab827fa |
