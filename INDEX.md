@@ -133,3 +133,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD-PPL-WEB-001-PRICE-20260924.md | 20260924 | CARD-PPL-WEB-001 | 三语演示加只读价库 PR popmartpark#1；结账关闭 |
 
 | CARD-PPL-WEB-001-ORDER-20260924.md | 20260924 | CARD-PPL-WEB-001 | 补充五 本站下单 PR popmartpark#1 头3825bd7；不付款不出票不向供应商下单 |
+
+| CARD-PPL-WEB-001-ACCEPT-20260924.md | 20260924 | CARD-PPL-WEB-001 | 补充四验收退回 三语译完 自托管字体 去掉假信息 PR#1 头ae3c132 |
