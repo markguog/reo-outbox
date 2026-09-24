@@ -125,3 +125,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD-PPL-WEB-001-M1-DESIGN-20260924.md | 20260924 | CARD-PPL-WEB-001 | M1补充 画布未到；31张原图已核哈希；未上R2 |
 
 | CARD-PPL-WEB-001-M2-20260924.md | 20260924 | CARD-PPL-WEB-001 | M2 五页草稿 PR#713；嘉年华19；未上R2未出票 |
+
+| CARD-PPL-WEB-001-M3-20260924.md | 20260924 | CARD-PPL-WEB-001 | M3 预览未建；R2前缀未到；票源不写死；M1两份已放入 docs/popland/grok |
