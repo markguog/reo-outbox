@@ -123,3 +123,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | CARD-PPL-WEB-001-M1-20260924.md | 20260924 | CARD-PPL-WEB-001 | M1 摸底：high1 不在本仓；SuperAgent 无下单与凭证；POP LAND 无票种样例 |
 
 | CARD-PPL-WEB-001-M1-DESIGN-20260924.md | 20260924 | CARD-PPL-WEB-001 | M1补充 画布未到；31张原图已核哈希；未上R2 |
+
+| CARD-PPL-WEB-001-M2-20260924.md | 20260924 | CARD-PPL-WEB-001 | M2 五页草稿 PR#713；嘉年华19；未上R2未出票 |
