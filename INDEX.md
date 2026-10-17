@@ -147,3 +147,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-01-RTAX-SITEMAP-20261018.md | 20261018 | grok-local-1 | reotaxis sitemap keepIndex 146; PR #305; prices not refreshed |
 
 | GROK-LOCAL-02-NEON-M1-20261018.md | 20261018 | grok-local-2 | Neon fail-fast and 8s cold catalog; PR #900; cache default stays 60 |
+| GROK-LOCAL-02-NEON-M2-20261018.md | 20261018 | grok-local-2 | Public catalog snapshot; PR #901; pages do not scan the table |
