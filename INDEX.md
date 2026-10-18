@@ -165,3 +165,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-XU8-905-20261018.md | 20261018 | grok-local-3 | #905 head 5935800; payable suite green; Fuji 93.44 USD / 8409.60 RUB; 等 codex 审 |
 | GROK-LOCAL-XU8-904-20261018.md | 20261018 | grok-local-3 | #904 head c53e9ac; 19 files versus main; stacked on #905; suite green; official feed not written; 等 codex 审 |
 | GROK-LOCAL-XU8-906-20261018.md | 20261018 | grok-local-3 | #906 head 86073a0; one city only; suite green; no storefront path so no Playwright run; official feed not written; 等 codex 审 |
+| GROK-LOCAL-908-PUBLISH-20261018.md | 20261018 | grok-local-2 | #908 head d862281; publisher waits out a cold catalog; suite green; switches off; 等 codex 审 |
