@@ -156,3 +156,5 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-901-AUDIT-20261018.md | 20261018 | grok-local-2 | #901 audit repair head 0fe46ab; GitHub suite green; 等 codex 审 |
 
 | GROK-LOCAL-901-R5-20261018.md | 20261018 | grok-local-2 | #901 fifth round head 34aa889; CI 39100375692; e2e 39100375551; Japan pool reo-ops #1473; 等 codex 审 |
+
+| GROK-LOCAL-ITEM3-NOCOMPARE-20261018.md | 20261018 | grok-local-3 | comparable price cancelled; Japan gate table ef295ce PR #1473; price_gate not_evaluated; M2 waits for #901; 等 codex 审 |
