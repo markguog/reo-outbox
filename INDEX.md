@@ -153,3 +153,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-ITEM2-WRAP-20261018.md | 20261018 | grok-local-2 | Item 2 wrap: #900 #901 #307 GitHub green; #305 red at Dida line 469; 等 codex 审 |
 | GROK-LOCAL-901-REBASE-20261018.md | 20261018 | grok-local-2 | #901 rebased onto main d67844e; head 79603f3; GitHub suite green; 等 codex 审 |
 | GROK-LOCAL-902-BUILD-20261018.md | 20261018 | grok-local-2 | next build typecheck under 1 GiB; PR #902 head 58878d9; GitHub suite green; 等 codex 审 |
+| GROK-LOCAL-901-AUDIT-20261018.md | 20261018 | grok-local-2 | #901 audit repair head 0fe46ab; GitHub suite green; 等 codex 审 |
