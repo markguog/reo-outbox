@@ -94,19 +94,27 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 
 | CARD1288-B2B-REOTRIP-REVIEW-20260921.md | 20260922 | CARD1288 | B2B审查 在售6725 可报价6292 交易未闭环 第一优先一单 PR=#893 |
 
+
 | CARD1288-B2B-REOTRIP-REVIEW-20260922.md | 20260922 | CARD1288 | B2B审查 数据包#894 在售6725 可见5651 货架已铺无人成交 第一优先交易闭环 PR=#895 |
+
 
 | CARD1288-B2B-REOTRIP-REVIEW-20260922-DELTA.md | 20260922 | CARD1288 | DELTA 1074拆分 other缺价659/onboarding缺价285+缺成人档130 一波二波0 Trip/Bokun加价SQL交网站窗 PR=#897 |
 
+
 | CARD1288-AUDIT-665-661-SUPERSEDE-20260922.md | 20260922 | CARD1288 | #661 CLOSED 判词作废; #665 PASS @6de40f35; 队列 666在审→665毕→662→668新头 |
+
 
 | CARD1288-AUDIT-665-FULL-CRITERIA-20260922.md | 20260922 | CARD1288 | #665 全单 PASS @6de40f35 27文件核 P2=resync第一判非preflightTierRows函数+onboarding超出只删预检 |
 
+
 | CARD1288-B2B-DELTA-INDEX-STALE-20260922.md | 20260922 | CARD1288 | 索引30分钟追不上7.8小时全量; 24h兜底+事件+夜间全量; #692入列 |
+
 
 | CARD1288-AUDIT-QUEUE-692-20260922.md | 20260922 | CARD1288 | 队列加#692 Draft 01470028 叠#665 stable e08e37c8 排#662后 本窗无判词 |
 
+
 | CARD1288-AUDIT-643-TAKEOVER-20260922.md | 20260922 | CARD1288 | #643席归grok-体力 等SEO七条新头只审增量 面板PR排其后 头仍810ae2a |
+
 
 | CARD1288-APPWRITE-DEPENDENCY-INVENTORY-20260922.md | 20260922 | CARD1288 | Appwrite依赖盘点 4类只在Appwrite 最要紧B2B Auth |
 
@@ -167,5 +175,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-REVIEW-PAUSE-905-20261018.md | 20261018 | grok-review | #905 PASS on 60b6a2f withdrawn for OBS905-04; already squashed as 74398aaa before the pause; #904 and #906 not merged; #908 snapshot run 39135972351 in progress, no second dispatch; #909 still FAIL |
 | GROK-LOCAL-908-SNAPSHOT-20261018.md | 20261018 | grok-review | snapshot run 39135972351 success on 9596b778; catalog snapshot uploaded objects=125 of 125; no second dispatch |
 | GROK-LOCAL-SNAPSHOT-HOLD-20261018.md | 20261018 | grok-review | second snapshot paused until OBS905-04 fix is dual-PASS and merged, then one dispatch; bar is markup 1.2 raw 45 to 54 USD / 4860 RUB; #904 #906 #909 not merged |
-
 | GROK-LOCAL-909-R2-20261018.md | 20261018 | grok-local-2 | #909 head 99de655; signed redirect rejected; incomplete config throws before fetch; cold failure text is fixed; local unit 568 files / 8556 passed; GitHub checks not claimed here; 等审查窗口复审 |
