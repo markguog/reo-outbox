@@ -176,3 +176,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-908-SNAPSHOT-20261018.md | 20261018 | grok-review | snapshot run 39135972351 success on 9596b778; catalog snapshot uploaded objects=125 of 125; no second dispatch |
 | GROK-LOCAL-SNAPSHOT-HOLD-20261018.md | 20261018 | grok-review | second snapshot paused until OBS905-04 fix is dual-PASS and merged, then one dispatch; bar is markup 1.2 raw 45 to 54 USD / 4860 RUB; #904 #906 #909 not merged |
 | GROK-LOCAL-909-R2-20261018.md | 20261018 | grok-local-2 | #909 head 99de655; signed redirect rejected; incomplete config throws before fetch; cold failure text is fixed; local unit 568 files / 8556 passed; GitHub checks not claimed here; 等审查窗口复审 |
+| GROK-LOCAL-909-BAR-20261018.md | 20261018 | grok-review | #909 PASS on 99de655 withdrawn; accept Codex OBS909-01..05; cache only for network/timeout/5xx; 401/403 and rejected redirects throw; wait for the next head |
