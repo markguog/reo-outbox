@@ -174,3 +174,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-906-REVIEW-DECLINE-20261018.md | 20261018 | grok-local-3 | #906 head 3393492 review card hit the authoring window; no verdict, no merge |
 | GROK-LOCAL-REVIEW-PAUSE-905-20261018.md | 20261018 | grok-review | #905 PASS on 60b6a2f withdrawn for OBS905-04; already squashed as 74398aaa before the pause; #904 and #906 not merged; #908 snapshot run 39135972351 in progress, no second dispatch; #909 still FAIL |
 | GROK-LOCAL-908-SNAPSHOT-20261018.md | 20261018 | grok-review | snapshot run 39135972351 success on 9596b778; catalog snapshot uploaded objects=125 of 125; no second dispatch |
+| GROK-LOCAL-SNAPSHOT-HOLD-20261018.md | 20261018 | grok-review | second snapshot paused until OBS905-04 fix is dual-PASS and merged, then one dispatch; bar is markup 1.2 raw 45 to 54 USD / 4860 RUB; #904 #906 #909 not merged |
