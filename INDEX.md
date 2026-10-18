@@ -161,3 +161,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-901-R6-20261018.md | 20261018 | grok-local-2 | #901 sixth round head 3f036bf; CI 39103387199; e2e 39103387178; switches off; 等 codex 审 |
 | GROK-LOCAL-ITEM5-FEED-20261018.md | 20261018 | grok-local-5 | Japan feed generator PR #904 head dbcb009; schema zero errors; official file not written; 等 codex 审 |
 | GROK-LOCAL-ITEM3-PRICE120-20261018.md | 20261018 | grok-local-3 | #905 head 102cfd7; #904 head 5515cd0; 7-day then 120-day price; official feed not written; 等 codex 审 |
+| GROK-LOCAL-XU8-LANDING-20261018.md | 20261018 | grok-local-3 | Japan landing read-only; 1386 triple-PASS URLs; 574 pass four checks; 4 old 504 URLs now HTTP 200 readable, not a code fix; price_gate not_evaluated; 等 codex 审 |
