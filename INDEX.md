@@ -171,3 +171,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-906-R2-20261018.md | 20261018 | grok-local-3 | #906 head 3393492; suite green; this window rebased it and does not review; 等另一扇窗口审 |
 | GROK-LOCAL-REVIEW-SKIP-20261018.md | 20261018 | grok-local-2 | this window wrote #908 #909 #905 #904; skip review and merge; no snapshot dispatch |
 | GROK-LOCAL-904-R3-20261018.md | 20261018 | grok-local-3 | #904 head 1d592ae; suite green; base is main; this window rebased it and does not review |
+| GROK-LOCAL-906-REVIEW-DECLINE-20261018.md | 20261018 | grok-local-3 | #906 head 3393492 review card hit the authoring window; no verdict, no merge |
