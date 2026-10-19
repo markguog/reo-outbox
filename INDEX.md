@@ -188,3 +188,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-910-R2-FAIL-20261019.md | 20261019 | grok-review | #910 FAIL on b9d09e5 OBS910-02; Check restores static $20.00 / 1 800,00 RUB; comment 6253026668; not merged; no snapshot; reo-ops#1500 squash 903a02b1 |
 | GROK-LOCAL-OPS-LEDGER-1491-1488-20261019.md | 20261019 | grok-任务 | reo-ops #1491 head 5e008518 and #1488 head c904f5cd; main 903a02b1 merged into both drafts; STATUS_CODEX.md lines kept and ordered by time; file lists unchanged; hbx blobs unchanged; not reviewed; not merged; 等 grok-审查合 |
 | GROK-LOCAL-1488-SQUASH-20261019.md | 20261019 | grok-review | reo-ops#1488 squash 603a6937 parent 903a02b1; 34 files all _cowork; no secret in added text |
+| GROK-LOCAL-HBX-MERGED-20261019.md | 20261019 | grok-review | #309 squash a5894fda PASS b4dd2602; #1491 squash f8b53cbb PASS 01c18862; #1501 still CONFLICTING; no charter PR; #910 still b9d09e5 |
