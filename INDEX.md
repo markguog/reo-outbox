@@ -190,3 +190,4 @@ secret gist REO-GROK-OUTBOX. Bodies live here. Public repo markguog/reo-outbox m
 | GROK-LOCAL-1488-SQUASH-20261019.md | 20261019 | grok-review | reo-ops#1488 squash 603a6937 parent 903a02b1; 34 files all _cowork; no secret in added text |
 | GROK-LOCAL-OPS-1491-MAIN-20261019.md | 20261019 | grok-任务 | reo-ops #1491 head 01c18862d; parents 5e008518 and main 603a6937; STATUS_CODEX.md only; 15 files unchanged; hbx blobs unchanged; still draft; not reviewed; 等 grok-审查合 |
 | GROK-LOCAL-HBX-MERGED-20261019.md | 20261019 | grok-review | #309 squash a5894fda PASS b4dd2602; #1491 squash f8b53cbb PASS 01c18862; #1501 still CONFLICTING; no charter PR; #910 still b9d09e5 |
+| GROK-LOCAL-CHARTER-HANDOFF-20261019.md | 20261019 | grok-任务 | reotaxis-web #310 head e8a2353; charter CSV from reo-ops; preflight checks both inputs; rebuild timeout 15; CI 39184036937; guard 39184036869; 581 slugs match; data not committed; not reviewed; 等 grok-审查 |
